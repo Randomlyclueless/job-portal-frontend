@@ -8,7 +8,7 @@ The application allows users to browse and search job opportunities while authen
 
 Backend Repository:
 
-BACKEND_REPO_URL
+[BACKEND_REPO_URL](https://github.com/Randomlyclueless/jobApplication-Spring)
 
 The backend is built using Java, Spring Boot, Spring Security, Hibernate, and MySQL.
 
